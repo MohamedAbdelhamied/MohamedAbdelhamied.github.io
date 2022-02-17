@@ -38,7 +38,7 @@ Its features include:
  - [OTG mode](#otg) (Linux-only)
  - and more…
 
-### Requirements
+###### Requirements
 
 The Android device requires at least API 21 (Android 5.0).
 
